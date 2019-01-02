@@ -1,0 +1,1 @@
+Demo which is part of the Blog post https://livewire.live/blog/picture-in-picture-pip-api/ about the Picture in Picture API
